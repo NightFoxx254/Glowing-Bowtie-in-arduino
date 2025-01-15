@@ -1,7 +1,7 @@
-							Glowing BowTie
-			 			Created by: Oliver Hãkansson
+Glowing BowTie
+Created by: Oliver Hãkansson
 
-	The electronics used in this project are as following:
+The electronics used in this project are as following:
  -	Arduino Nano Every(this can be substitued for another small arduino compatible microcontroller)
  -	5v Neopixel LED strip
  -	Battery(Rechargable Lipo or AAA batteries
